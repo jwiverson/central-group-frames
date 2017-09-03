@@ -1,4 +1,7 @@
-#This file is a companion to Table 2 in the paper "Optimal Line Packings From Association Schemes", by J.W. Iverson, J. Jasper, and D.G. Mixon. Below we list the SmallGroup IDs of groups of order < 1024 which might admit hyperdifference sets of constant degree. The naming scheme corresponds to the rows of Table 2. For instance, the list "row2" gives the SmallGroups of all groups of order 256 which might admit hyperdifference sets of 30 characters with constant degree 2.
+#This file is a companion to Table 1 in the paper "Optimal Line Packings From Association Schemes", by J.W. Iverson, J. Jasper,
+and D.G. Mixon. Below we list the SmallGroup IDs of groups of order < 1024 which might admit hyperdifference sets of constant 
+degree. The naming scheme corresponds to the rows of Table 1. For instance, the list "row2" gives the SmallGroups ids of all 
+groups of order 256 which might admit hyperdifference sets of 30 characters with constant degree 2.
 
 row1:=[73, 74, 75, 76, 77, 78, 79, 80, 81, 82];
 
